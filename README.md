@@ -4,11 +4,6 @@
 
 **author of first version**: [josemidev](https://github.com/josemidev/cutting-mat-generator)
 
+<br>
 
-
-**JUST OPEN .HTML FILE, ALL THERE**
-
-
-
-*no copyright. Free to use.*
-
+***JUST OPEN .html FILE, ALL THERE***
